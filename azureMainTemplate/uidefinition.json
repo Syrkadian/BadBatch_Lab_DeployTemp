@@ -6,7 +6,7 @@
 		"config": {
 			"isWizard": true,
 			"basics": {
-				"description": "<img width=450 src=\"https://github.com/Syrkadian/BadBatch_Lab/blob/main/images/NBT.png\">\n\n\n BadBatch Lab Environment\n https://github.com/Syrkadian/BadBatch_Lab/blob/main/images/NBT.png",
+				"description": "<img width=450 src=\"https://github.com/Syrkadian/BadBatch_Lab_DeployTemp/blob/main/images/NBT.png\">\n\n\n BadBatch Lab Environment\n https://github.com/Syrkadian/BadBatch_Lab_DeployTemp/blob/main/images/NBT.png",
 				"location": {
 					"label": "Location",
 					"toolTip": "Location for all resources",
