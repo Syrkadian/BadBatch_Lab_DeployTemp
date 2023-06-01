@@ -727,18 +727,6 @@
           },
           "location": {
             "value": "[parameters('location')]"
-          },
-          "location": {
-            "value": "[parameters('workspaceName')]"
-          },
-          "location": {
-            "value": "[parameters('pricingTier')]"
-          },
-          "location": {
-            "value": "[parameters('dataRetention')]"
-          },
-          "location": {
-            "value": "[parameters('immediatePurgeDataOn30Days')]"
           }
         }
       }
