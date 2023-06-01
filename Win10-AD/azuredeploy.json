@@ -726,6 +726,9 @@
             "value": "[parameters('domainUsers')]"
           },
           "location": {
+            "value": "[parameters('location')]"
+          },
+          "location": {
             "value": "[parameters('workspaceName')]"
           },
           "location": {
@@ -735,7 +738,7 @@
             "value": "[parameters('dataRetention')]"
           },
           "location": {
-            "value": "[parameters('location')]"
+            "value": "[parameters('immediatePurgeDataOn30Days')]"
           }
         }
       }
