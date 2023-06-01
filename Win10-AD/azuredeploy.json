@@ -726,6 +726,15 @@
             "value": "[parameters('domainUsers')]"
           },
           "location": {
+            "value": "[parameters('workspaceName')]"
+          },
+          "location": {
+            "value": "[parameters('pricingTier')]"
+          },
+          "location": {
+            "value": "[parameters('dataRetention')]"
+          },
+          "location": {
             "value": "[parameters('location')]"
           }
         }
